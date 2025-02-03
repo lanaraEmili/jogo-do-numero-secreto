@@ -29,7 +29,7 @@ function verificarChute() {
 
     } else {
         if (chute > numeroSecreto) {
-            exibirTextoNaTela('p', '0 número secreto é menor');
+            exibirTextoNaTela('p', 'O número secreto é menor');
         } else {
             exibirTextoNaTela('p', 'O número secreto é maior');
         }
@@ -50,6 +50,7 @@ function gerarNumeroAleatorio() {
         return gerarNumeroAleatorio();
     } else {
         listaDeNumerosSorteados.push(numeroEscolhido);
+        console.log(listaDeNumerosSorteados);
         return numeroEscolhido;
     }
 }

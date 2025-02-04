@@ -10,6 +10,8 @@ Descrição: Uma aplicação web simples, composta por arquivos HTML, CSS e Java
 
 `Usabilidade:` O jogo é fácil de jogar e o feedback do programa é claro e útil.
 
+`Integração com Vercel :` https://jogo-do-numero-secreto-chi-five-89.vercel.app/
+
 ## 🚀 Tecnologias
 
   <div style="flex-basis: 48%;">
@@ -21,4 +23,5 @@ Descrição: Uma aplicação web simples, composta por arquivos HTML, CSS e Java
   </p>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
+
 

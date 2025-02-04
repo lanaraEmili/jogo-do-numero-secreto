@@ -1,7 +1,12 @@
 # Desafio: Jogo do número secreto
 
 ## 📖 Sobre o Projeto
-Funcionalidades:
+Descrição: Uma aplicação web simples, composta por arquivos HTML, CSS e JavaScript com intuito de criar um jogo de Número Secreto. O jogo consiste em um número gerado aleatoriamente pelo sistema de 1 a 10, e o jogador deve adivinhar esse número em um número limitado de tentativas. O projeto foi desenvolvido como um desafio do curso do programa ONE (Oracle Next Education) em parceria com a Alura.
+
+
+`Funcionalidade:` O jogo funciona corretamente, gerando números secretos e fornecendo feedback adequado ao jogador.
+
+`Usabilidade:` O jogo é fácil de jogar e o feedback do programa é claro e útil.
 
 ## 🚀 Tecnologias
 
